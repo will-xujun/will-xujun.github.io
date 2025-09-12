@@ -1,15 +1,15 @@
 ---
-title: Template homepage
-author: Templato Urnehm
-shortbio: PhD student in 👽 science
-description-meta: PhD student in 👽 science
+title: Xu Jun's Website
+author: Xu Jun
+shortbio: MPhil Math at CUHK
+description-meta: Logician by default
 og-url: https://basicpage.github.io
 location: Some lab, office 777
 email: noreply@noemail.com
 picture: img/profile.png
 picture-round: false
 side-by-side: true
-pronouns: They/Them
+pronouns: He/Him
 og-picture: https://basicpage.github.io/img/profile.png
 orcid: 0000-0000-0000-0000
 dblp: https://dblp.org/
