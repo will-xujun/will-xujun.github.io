@@ -1,11 +1,11 @@
 ---
-title: Xu Jun's Website
+title: Xu Jun's academic profile
 author: Xu Jun
 shortbio: MPhil Math at CUHK
 description-meta: Logician by default
-og-url: https://basicpage.github.io
-location: Some lab, office 777
-email: noreply@noemail.com
+og-url: will-xujun.github.io
+location: Unit 407A, Academic building 1, The Chinese University of Hong Kong
+email: willxujun@hotmail.com
 picture: img/profile.png
 picture-round: false
 side-by-side: true
@@ -27,10 +27,9 @@ footer: >-
   made to be easy to use! 🎓
 ---
 
-I am a (fake) PhD student, working on 👽 science on all kinds of related topics.
+I am currently an MPhil student in Mathematics @ The Chinese University of Hong Kong. Until August 2025, I had been a PhD candidate in Math at the same university.
 
-My workflow is usually to use <kbd>Ctrl</kbd> + <kbd>C</kbd> /
-<kbd>Ctrl</kbd> + <kbd>V</kbd>. 🫣
+I am due to graduate in June 2026.
 
 > [!NOTE]
 > This website is obviously a fake one, but it's meant to be very easy to use.
@@ -163,18 +162,17 @@ papers:
 }
 ```
 
+## Theses
+
 # Education
 
-- I was able to paint with my hands in kindergarten.
-- I went to high school where I studied stuff.
-- Master degree in hand painting.
+- MPhil in Mathematics, CUHK, 2024-present
+- Msc in Mathematics, Uni Regensburg, 2022-2024
+- Independent Mathematics student, National University of Singapore, Singapore, 2020-2022
+- BEng in Computer Engineering, National University of Singapore, Singapore, 2016-2020
 
 # Teaching
 
-- I am teaching the TD sessions on the 👽 science course.
+- In AY25/26 semester 1 I tutor Math3208 Number Theory and MATH2070 Algebraic Structures I.
+- In AY24/25 semester 1 I tutored calculus for engineers.
 
-# Community service
-
-- 32 reviews for Journal of Awesomeness.
-- 1 review for a cool conference.
-- PC member of the journal of my school.
