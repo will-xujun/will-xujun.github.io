@@ -10,21 +10,7 @@ picture: img/profile.png
 picture-round: false
 side-by-side: true
 pronouns: He/Him
-og-picture: https://basicpage.github.io/img/profile.png
-orcid: 0000-0000-0000-0000
-dblp: https://dblp.org/
-scholar: https://scholar.google.com/
-hal: https://hal.science/
-mastodon: https://lipn.info
-github: basicpage
-gitlab: gitlab
-bitbucket: bitbucket.com
-bluesky: https://bsky.app/
-linkedin: https://www.linkedin.com
-footer: >-
-  Based on the
-  [basicpage template](https://github.com/basicpage/basicpage.github.io),
-  made to be easy to use! 🎓
+github: https://github.com/will-xujun
 ---
 
 I am currently an MPhil student in Mathematics @ The Chinese University of Hong Kong. Until August 2025, I had been a PhD candidate in Math at the same university.
