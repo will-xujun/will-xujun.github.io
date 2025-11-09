@@ -31,11 +31,6 @@ I am currently an MPhil student in Mathematics @ The Chinese University of Hong 
 
 I am due to graduate in June 2026.
 
-> [!NOTE]
-> This website is obviously a fake one, but it's meant to be very easy to use.
-> Just follow the README of the
-> [Github repository](https://github.com/basicpage/basicpage.github.io).
-
 # Publications
 
 ## Conference papers
