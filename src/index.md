@@ -1,5 +1,5 @@
 ---
-title: Xu Jun's academic profile
+title: Welcome to Jun's homepage
 author: Xu Jun
 shortbio: MPhil Math at CUHK
 description-meta: Logician by default
