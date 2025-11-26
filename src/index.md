@@ -47,7 +47,7 @@ I am due to graduate in June 2026.
 ```
 
 ``` json {.paper}
-"title": "Grey Tensor Product for (\infty,2)-Categories",
+"title": "Grey Tensor Product for (infinity,2)-Categories",
 "authors": "Jun Xu",
 "year": "2023"
 ```
