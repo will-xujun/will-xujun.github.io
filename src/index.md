@@ -33,20 +33,14 @@ I am due to graduate in June 2026.
 ## Drafts
 
 ``` json {.paper}
-"title": "TBD",
-"authors": "TBD",
-"awards": [
-  "Best Draft Award",
-  "Test-of-time Award for works which just never leave the draft stage"
-],
-"files": [
-  { "text": "🐱 video", "type": "video", "src": "foo.mov" },
-  { "text": "Poem", "type": "txt", "src": "foo.txt" },
-  { "text": "My picture", "type": "img", "src": "img/profile.png" },
-  { "text": "💣", "type": "zip", "src": "foo.zip" },
-  { "text": "Slides", "type": "slides", "src": "foo.key" },
-  { "text": "Some random file", "src": "foo.rand" }
-]
+"title": "A note on Ramsey quantifiers over automatic structures",
+"authors": "Jun Xu",
+"year": "2025"
+```
+``` json {.paper}
+"title": "Grey Tensor Product for (\infty,2)-Categories",
+"authors": "Jun Xu",
+"year": "2023"
 ```
 
 ## Talks
@@ -74,9 +68,7 @@ I am due to graduate in June 2026.
 
 ``` json {.paper}
 "title": "Scalar Curvature Rigidity for subsets of spheres",
-"venue": "IEEE Transactions on Computers",
-"year": "2023",
-"doi": "10.1109/TC.2022.3219257"
+"year": "2024"
 ```
 
 # Education
