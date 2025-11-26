@@ -27,7 +27,7 @@ I am due to graduate in June 2026.
 "venue": "IEEE Transactions on Computers",
 "year": "2023",
 "files": [
-  { "text": "Paper", "type": "pdf", "src": "qubo.pdf" }
+  { "text": "Paper", "type": "pdf", "src": "../website/files/qubo.pdf" }
 ]
 ```
 
