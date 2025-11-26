@@ -43,32 +43,16 @@ I am due to graduate in June 2026.
 "year": "2023"
 ```
 
-## Talks
-
-``` json {.papers}
-{
-  "title": "Talk 1",
-  "authors": "Templato Urnehm",
-  "venue": "My room"
-},
-{
-  "title": "Secret talk",
-  "authors": "Templato Urnehm",
-  "year": "1990"
-},
-{
-  "title": "Talk 3",
-  "authors": "Templato Urnehm",
-  "venue": "Don't remember…",
-  "year": "???"
-}
-```
-
 ## Theses
 
 ``` json {.paper}
 "title": "Scalar Curvature Rigidity for subsets of spheres",
 "year": "2024"
+```
+
+``` json {.paper}
+"title": "Warehouse optimization using quadratic assignment on new hardware",
+"year": "2020"
 ```
 
 # Education
