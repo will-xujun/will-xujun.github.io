@@ -72,6 +72,13 @@ I am due to graduate in June 2026.
 
 ## Theses
 
+``` json {.paper}
+"title": "Scalar Curvature Rigidity for subsets of spheres",
+"venue": "IEEE Transactions on Computers",
+"year": "2023",
+"doi": "10.1109/TC.2022.3219257"
+```
+
 # Education
 
 - MPhil in Mathematics, CUHK, 2024-present
