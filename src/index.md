@@ -33,6 +33,7 @@ I am due to graduate in June 2026.
 ## Drafts
 ``` json {.paper}
 "title": "Formalizing Game Logic with Sabotage",
+"authors": "Jun Xu",
 "year": "2025"
 ```
 ``` json {.paper}
