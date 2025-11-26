@@ -26,7 +26,6 @@ I am due to graduate in June 2026.
 "authors": "Tian Huang, Jun Xu, Tao Luo et al",
 "venue": "IEEE Transactions on Computers",
 "year": "2023",
-"doi": "10.1109/TC.2022.3219257"
 "files": [
   { "text": "Paper", "type": "pdf", "src": "qubo.pdf" }
 ]
