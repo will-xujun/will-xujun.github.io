@@ -27,10 +27,9 @@ I am due to graduate in June 2026.
 "venue": "IEEE Transactions on Computers",
 "year": "2023",
 "doi": "10.1109/TC.2022.3219257"
-files:
-  - text: Paper
-    type: pdf
-    scr: qubo.pdf
+"files": [
+  { "text": "Paper", "type": "pdf", "src": "qubo.pdf" }
+]
 ```
 
 
@@ -40,11 +39,13 @@ files:
 "authors": "Jun Xu",
 "year": "2025"
 ```
+
 ``` json {.paper}
 "title": "A note on Ramsey quantifiers over automatic structures",
 "authors": "Jun Xu",
 "year": "2025"
 ```
+
 ``` json {.paper}
 "title": "Grey Tensor Product for (\infty,2)-Categories",
 "authors": "Jun Xu",
