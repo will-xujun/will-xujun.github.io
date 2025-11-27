@@ -27,7 +27,7 @@ I am due to graduate in June 2026.
 "venue": "IEEE Transactions on Computers",
 "year": "2023",
 "files": [
-  { "text": "Paper", "type": "pdf", "src": "../website/files/qubo.pdf" }
+  { "text": "Paper", "type": "pdf", "src": "files/qubo.pdf" }
 ]
 ```
 
@@ -36,7 +36,10 @@ I am due to graduate in June 2026.
 ``` json {.paper}
 "title": "Formalizing Game Logic with Sabotage",
 "authors": "Jun Xu",
-"year": "2025"
+"year": "2025",
+"files": [
+  { "text": "Code", "type": "url", "src": "https://github.com/will-xujun/Game_Logic_Sabotage.git" }
+]
 ```
 
 ``` json {.paper}
