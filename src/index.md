@@ -45,7 +45,7 @@ I am due to graduate in June 2026.
 ## Unpublished manuscripts
 ``` json {.paper}
 "title": "A note on Ramsey quantifiers over automatic structures",
-"authors": "Jun Xu",
+"authors": "Marvin Brieger", "Noah Abou El Wafa", "Jun Xu", "Andre Platzer"
 "year": "2025"
 ```
 
