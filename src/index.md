@@ -35,7 +35,7 @@ I am due to graduate in June 2026.
 ## Drafts and preprints
 ``` json {.paper}
 "title": "Formalizing Game Logic with Sabotage",
-"authors": "Jun Xu",
+"authors": "Marvin Brieger, Noah About El Wafa, Jun Xu, André Platzer",
 "year": "2025",
 "files": [
   { "text": "Code", "type": "url", "src": "https://github.com/will-xujun/Game_Logic_Sabotage.git" }
@@ -45,7 +45,7 @@ I am due to graduate in June 2026.
 ## Unpublished manuscripts
 ``` json {.paper}
 "title": "A note on Ramsey quantifiers over automatic structures",
-"authors": "Marvin Brieger, Noah About El Wafa, Jun Xu, André Platzer",
+"authors": "Jun Xu",
 "year": "2025"
 ```
 
