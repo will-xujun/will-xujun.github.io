@@ -32,7 +32,7 @@ I am due to graduate in June 2026.
 ```
 
 
-## Drafts
+## Drafts and preprints
 ``` json {.paper}
 "title": "Formalizing Game Logic with Sabotage",
 "authors": "Jun Xu",
@@ -42,6 +42,7 @@ I am due to graduate in June 2026.
 ]
 ```
 
+## Unpublished manuscripts
 ``` json {.paper}
 "title": "A note on Ramsey quantifiers over automatic structures",
 "authors": "Jun Xu",
