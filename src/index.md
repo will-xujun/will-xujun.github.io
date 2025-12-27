@@ -38,7 +38,7 @@ I am due to graduate in June 2026.
 "authors": "Marvin Brieger, Noah About El Wafa, Jun Xu, André Platzer",
 "year": "2025",
 "files": [
-  { "text": "Code", "type": "url", "src": "https://github.com/will-xujun/Game_Logic_Sabotage.git" }
+  { "text": "Code", "type": "url", "src": "https://github.com/will-xujun/Game_Logic_Sabotage.git" },
   { "text": "Technical proof for Bekic", "type": "pdf", "src": "files/bekic.pdf" }
 ]
 ```
