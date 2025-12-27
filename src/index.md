@@ -39,6 +39,7 @@ I am due to graduate in June 2026.
 "year": "2025",
 "files": [
   { "text": "Code", "type": "url", "src": "https://github.com/will-xujun/Game_Logic_Sabotage.git" }
+  { "text": "Technical proof for Bekic", "type": "pdf", "src": "files/bekic.pdf" }
 ]
 ```
 
