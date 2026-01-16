@@ -53,19 +53,38 @@ I am due to graduate in June 2026.
 ``` json {.paper}
 "title": "Grey Tensor Product for (infinity,2)-Categories",
 "authors": "Jun Xu",
-"year": "2023"
+"year": "2023",
+"files": [
+  { "text": "report", "type": "pdf", "src": "files/gray.pdf" }
+]
 ```
 
-## Theses
+## Projects and Theses
+
+Unfortunately, due to a hardware failure, a lot of code artifacts have been lost.
 
 ``` json {.paper}
 "title": "Scalar Curvature Rigidity for subsets of spheres",
-"year": "2024"
+"year": "2024",
+"files": [
+  { "text": "report", "type": "pdf", "src": "files/Thesis_signed.pdf" }
+]
 ```
 
 ``` json {.paper}
 "title": "Warehouse optimization using quadratic assignment on new hardware",
-"year": "2020"
+"year": "2020",
+"files": [
+  { "text": "report", "type": "pdf", "src": "files/FYP_report.pdf" }
+]
+```
+
+``` json {.paper}
+"title": "Investigation of Design and Implementation of Domain-Specific Languages",
+"year": "2019",
+"files": [
+  { "text": "report", "type": "pdf", "src": "files/UROP_report.pdf" }
+]
 ```
 
 # Education
@@ -77,6 +96,7 @@ I am due to graduate in June 2026.
 
 # Teaching
 
+- In AY25/26 semester 1 I tutor MATH2070 Algebraic Structures I.
 - In AY25/26 semester 1 I tutor Math3208 Number Theory and MATH2070 Algebraic Structures I.
 - In AY24/25 semester 1 I tutored calculus for engineers.
 
