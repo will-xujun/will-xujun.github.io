@@ -23,6 +23,14 @@ Some other interesting topics I CANNOT hope to work on in the near future: 1) In
 
 # Publications
 
+## Conference papers
+``` json {.paper}
+"title": "A Generalized Bekič Principle and its Formalization in Isabelle",
+"authors": "Jun Xu",
+"venue": "Isabelle Workshop",
+"year": "2026"
+```
+
 ## Journal papers
 
 ``` json {.paper}
