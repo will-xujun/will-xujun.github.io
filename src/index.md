@@ -13,9 +13,13 @@ pronouns: He/Him
 github: https://github.com/will-xujun
 ---
 
-I am currently an MPhil student in Mathematics @ The Chinese University of Hong Kong. Until August 2025, I had been a PhD candidate in Math at the same university.
+I am an MPhil student in Mathematics @ The Chinese University of Hong Kong.
 
-I am due to graduate in June 2026.
+My research interest is logic. I currently investigate questions on games with mixed objectives. The goal is to develop a complete theoretical foundation for such games, including strategy extraction procedures and complexity of such strategies.
+
+There are interesting topics I hope to work on in the near future: 1) A categorical semantics for statistical inference 2) TBC
+
+Some other interesting topics I cannot hope to work on in the near future: 1) Inner model theory 2) Homotopy type theory
 
 # Publications
 
@@ -44,11 +48,6 @@ I am due to graduate in June 2026.
 ```
 
 ## Unpublished manuscripts
-``` json {.paper}
-"title": "A note on Ramsey quantifiers over automatic structures",
-"authors": "Jun Xu",
-"year": "2025"
-```
 
 ``` json {.paper}
 "title": "Grey Tensor Product for (infinity,2)-Categories",
