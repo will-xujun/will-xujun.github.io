@@ -19,7 +19,7 @@ My research interest is logic. I currently investigate questions on games with m
 
 There are interesting topics I hope to work on in the near future: 1) A categorical semantics for statistical inference 2) Coalgebraic semantics for games involving probability?
 
-Some other interesting topics I cannot hope to work on in the near future: 1) Inner model theory 2) Homotopy type theory
+Some other interesting topics I CANNOT hope to work on in the near future: 1) Inner model theory 2) Homotopy type theory 3) Higher category theory 4) Knot theory
 
 # Publications
 
