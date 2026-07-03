@@ -17,7 +17,7 @@ I am an MPhil student in Mathematics @ The Chinese University of Hong Kong.
 
 My research interest is logic. I currently investigate questions on games with mixed objectives. The goal is to develop a complete theoretical foundation for such games, including strategy extraction procedures and complexity of such strategies.
 
-There are interesting topics I hope to work on in the near future: 1) A categorical semantics for statistical inference 2) TBC
+There are interesting topics I hope to work on in the near future: 1) A categorical semantics for statistical inference 2) Coalgebraic semantics for games involving probability?
 
 Some other interesting topics I cannot hope to work on in the near future: 1) Inner model theory 2) Homotopy type theory
 
