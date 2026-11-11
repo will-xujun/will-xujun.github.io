@@ -16,7 +16,7 @@ github: https://github.com/will-xujun
 I am an independent researcher.
 
 My research interest falls into the broad category of Logic in Computer Science.
-My long-term vision is to develop suitable abstractions of mathematics as a foundation of verifying program correctness.
+My long-term vision is to develop suitable abstractions of mathematics as a foundation of verifying program correctness..
 
 There are interesting topics I hope to work on in the near future: 1) A categorical semantics for statistical inference 2) Coalgebraic semantics for games involving probability?
 
