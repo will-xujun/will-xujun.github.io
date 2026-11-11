@@ -13,9 +13,10 @@ pronouns: He/Him
 github: https://github.com/will-xujun
 ---
 
-I am an MPhil student in Mathematics @ The Chinese University of Hong Kong.
+I am an independent researcher.
 
-My research interest is logic. I currently investigate questions on games with mixed objectives. The goal is to develop a complete theoretical foundation for such games, including strategy extraction procedures and complexity of such strategies.
+My research interest falls into the broad category of Logic in Computer Science.
+My long-term vision is to develop suitable abstractions of mathematics as a foundation of verifying program correctness.
 
 There are interesting topics I hope to work on in the near future: 1) A categorical semantics for statistical inference 2) Coalgebraic semantics for games involving probability?
 
@@ -47,18 +48,6 @@ Some other interesting topics I CANNOT hope to work on in the near future: 1) In
 "year": "2023",
 "files": [
   { "text": "Paper", "type": "pdf", "src": "files/qubo.pdf" }
-]
-```
-
-
-## Drafts and preprints
-``` json {.paper}
-"title": "Formalizing Game Logic with Sabotage",
-"authors": "Marvin Brieger, Noah About El Wafa, Jun Xu, André Platzer",
-"year": "2025",
-"files": [
-  { "text": "Code", "type": "url", "src": "https://github.com/will-xujun/Game_Logic_Sabotage.git" },
-  { "text": "Technical proof for Bekic", "type": "pdf", "src": "files/bekic.pdf" }
 ]
 ```
 
@@ -103,7 +92,7 @@ Unfortunately, due to a hardware failure, a lot of code artifacts have been lost
 
 # Education
 
-- MPhil in Mathematics, CUHK, 2024-present
+- MPhil in Mathematics, CUHK, 2024-2026
 - Msc in Mathematics, Uni Regensburg, 2022-2024
 - Independent Mathematics student, National University of Singapore, Singapore, 2020-2022
 - BEng in Computer Engineering, National University of Singapore, Singapore, 2016-2020
