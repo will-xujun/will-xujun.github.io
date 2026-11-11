@@ -26,7 +26,7 @@ Some other interesting topics I CANNOT hope to work on in the near future: 1) In
 ## Conference papers
 ``` json {.paper}
 "title": "Formalizing Game and Fixpoint Logics: Translations and a Generalized Bekic Principle",
-"authors": "Jun Xu", "Marvin Brieger", "Noah Abou-El-Wafa"
+"authors": "Jun Xu", "Marvin Brieger", "Noah Abou-El-Wafa",
 "venue": "Certified Programs and Proofs (CPP), to appear",
 "year": "2027"
 ```
