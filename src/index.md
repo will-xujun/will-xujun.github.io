@@ -63,41 +63,6 @@ Some other interesting topics I CANNOT hope to work on in the near future: 1) In
 "title": "Formalizing Prosecutor-Defendant Games"
 ```
 
-## Manuscripts and Theses
-
-``` json {.paper}
-"title": "Grey Tensor Product for (infinity,2)-Categories",
-"authors": "Jun Xu",
-"year": "2023",
-"files": [
-  { "text": "report", "type": "pdf", "src": "files/gray.pdf" }
-]
-```
-
-``` json {.paper}
-"title": "Scalar Curvature Rigidity for subsets of spheres",
-"year": "2024",
-"files": [
-  { "text": "report", "type": "pdf", "src": "files/Thesis_signed.pdf" }
-]
-```
-
-``` json {.paper}
-"title": "Warehouse optimization using quadratic assignment on new hardware",
-"year": "2020",
-"files": [
-  { "text": "report", "type": "pdf", "src": "files/FYP_report.pdf" }
-]
-```
-
-``` json {.paper}
-"title": "Investigation of Design and Implementation of Domain-Specific Languages",
-"year": "2019",
-"files": [
-  { "text": "report", "type": "pdf", "src": "files/UROP_report.pdf" }
-]
-```
-
 # Education
 
 - MPhil in Mathematics, CUHK, 2024-2026
