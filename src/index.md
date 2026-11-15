@@ -50,8 +50,20 @@ Some other interesting topics I CANNOT hope to work on in the near future: 1) In
   { "text": "Paper", "type": "pdf", "src": "files/qubo.pdf" }
 ]
 ```
+## In Preparation
+``` json {.paper}
+"title": "Game Logic with Sabotage: Model Checking and Translation"
+```
 
-## Unpublished manuscripts
+``` json {.paper}
+"title": "A Distributional Weakest Pre-expectation Logic for Random Assignments"
+```
+
+``` json {.paper}
+"title": "Formalizing Prosecutor-Defendant Games"
+```
+
+## Manuscripts and Theses
 
 ``` json {.paper}
 "title": "Grey Tensor Product for (infinity,2)-Categories",
@@ -61,10 +73,6 @@ Some other interesting topics I CANNOT hope to work on in the near future: 1) In
   { "text": "report", "type": "pdf", "src": "files/gray.pdf" }
 ]
 ```
-
-## Projects and Theses
-
-Unfortunately, due to a hardware failure, a lot of code artifacts have been lost.
 
 ``` json {.paper}
 "title": "Scalar Curvature Rigidity for subsets of spheres",
