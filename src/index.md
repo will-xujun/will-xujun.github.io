@@ -63,6 +63,9 @@ Some other interesting topics I CANNOT hope to work on in the near future: 1) In
 "title": "Formalizing Prosecutor-Defendant Games"
 ```
 
+``` json {.paper}
+"title": "Higher-order Recursive Probabilistic Abstract Interpretation via Finite Valuation Approximation"
+```
 # Education
 
 - MPhil in Mathematics, CUHK, 2024-2026
